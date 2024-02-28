@@ -1,1 +1,1 @@
-Welcome to Streaming Data Analytics laboratory at Acadia University, Nova Scotia, Canada
+Welcome to Streaming Data Analytics Lab (SDAL) at Acadia University, Nova Scotia, Canada
