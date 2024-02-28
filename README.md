@@ -1,1 +1,1 @@
-# Streaming Data Analytics Lab
+# Streaming Data Analytics Lab (SDAL)
